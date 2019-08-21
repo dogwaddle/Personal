@@ -22,7 +22,10 @@
 - [ ] Illustration
 - [ ] Data Visualization using Python and JS
 - [ ] Should I learn any assist programs: Octoparse? Tableau?
-- [ ] Insert More
+- [ ] Storytelling
+      - [ ] storytelling books
+      - [ ] psychology introduction textbook
+      - [ ] psychology personality books
 
 ## kudos
 Template and Idea from [Una Kravets](https://github.com/una)
