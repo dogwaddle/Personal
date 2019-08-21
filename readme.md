@@ -6,6 +6,7 @@
 - [ ] Photography Youtube Series - Collecting all the Information - See Wiki
 - [ ] Data Visualization - Learning Data Visualizaiton - Starting with Pudding.Cool resources
 - [ ] Other Projects - Creating a Idea Generator
+- [ ] Create a Blog/Website to house all this, [how to link](https://devblast.com/b/create-a-static-websiteblog-with-jekyll-and-github-pages)
 
 ## Major Challenges 
 - [ ] Dealing with my Sleep Apnea - CPAP machine isn't working, testing out losing weight before seeing doctor
