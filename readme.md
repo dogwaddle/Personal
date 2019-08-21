@@ -20,8 +20,8 @@
 
 ## Skills I'm Developing
 - [ ] Illustration
-- [ ] Data Visualization using Tableau 
-- [ ] Data Visualization using Python
+- [ ] Data Visualization using Python and JS
+- [ ] Should I learn any assist programs: Octoparse? Tableau?
 - [ ] Insert More
 
 ## kudos
